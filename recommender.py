@@ -4,8 +4,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 from datetime import datetime
-import kagglehub
-from kagglehub import KaggleDatasetAdapter
 
 class MovieRecommender:
     def __init__(self):
