@@ -60,7 +60,6 @@ The default dataset (`cleaned_movies.csv`) includes a comprehensive collection o
 movie-recommendation/
 ├── app.py                   # Main Streamlit application
 ├── recommender.py           # Recommendation engine logic
-├── streamlit_app.py         # Entry point for Streamlit Cloud
 ├── requirements.txt         # Python dependencies
 ├── packages.txt             # System dependencies
 ├── README.md                # Documentation
